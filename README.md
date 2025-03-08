@@ -1,8 +1,3 @@
-# React + Vite
+This is a simple Travel Journal website developed using React library and Vite environment. 
+It showcases the data-driven aspect of React library such as the usage of props, re-using components as well as leveraging the Array.map() method to render the list of items in React.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
